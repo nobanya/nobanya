@@ -15,7 +15,7 @@ My journey across IT support, system administration, and SOC analysis roles stre
 
 | Project                                   | Where To Find 
 |-----------------------------------------------|----------------------------|
-| Log Analysis Project          | <a href="https://google.com">Detection Lab</a>|
+| Log Analysis Portfolio (Apache)          | 🛡️ **Blue Team Detection Lab:** [Apache Web Server Log Analysis](https://github.com/nobanya/Log-Analysis-Portfolio/blob/27f8037159cf6a97ce44f1eca391f71f74b8aaa5/Project-1-Apache--Logs-Analysis.md)
 | Network Traffic Investigation on Linux Systems | <a href="https://google.com">Detection Lab</a>|
 | Windows Forensics Project       | SOC Automation Lab|
 | Active Directory Project      | SOC Automation Lab|
