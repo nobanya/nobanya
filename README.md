@@ -16,7 +16,7 @@ My journey across IT support, system administration, and SOC analysis roles stre
 | Project                                   | Where To Find 
 |-----------------------------------------------|----------------------------|
 | Log Analysis Portfolio (Apache)          | 🛡️ **Blue Team Detection Lab:** [Apache Web Server Log Analysis](https://github.com/nobanya/Log-Analysis-Portfolio/blob/6100e809aebe45aa392a06388fc57c78fd825e9b/Apache-Logs-Analysis.md)
-| Network Traffic Investigation on Linux Systems | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Investigation on Linux Systems |  🛡️ **Blue Team Detection Lab:** [Network Traffic Investigation On Linux](https://github.com/nobanya/Network-Traffic-Investigation-on-Linux-Systems/blob/b97a6a2e81f7355c21b4e36247e84cd140e9830a/Network-Activity-Investigation-On-Linux.md)|
 | Windows Forensics Project       | 🛡️ **Blue Team Detection Lab:** [ Windows Event Log Forensics ](https://github.com/nobanya/Windows-Forensics-Portfolio/blob/33239832287f515b19594c31d34cd34f0d4743e2/README.md)|
 | Active Directory Project      | 🛡️ **Blue Team Detection Lab:** [Active Directory Monitoring Project](https://github.com/nobanya/Active-Directory-Portfolio/blob/dad343889e56422430e2b668d1b67a8bbafc9b89/README.md)|
 
