@@ -17,7 +17,7 @@ My journey across IT support, system administration, and SOC analysis roles stre
 |-----------------------------------------------|----------------------------|
 | Log Analysis Portfolio (Apache)          | 🛡️ **Blue Team Detection Lab:** [Apache Web Server Log Analysis](https://github.com/nobanya/Log-Analysis-Portfolio/blob/6100e809aebe45aa392a06388fc57c78fd825e9b/Apache-Logs-Analysis.md)
 | Network Traffic Investigation on Linux Systems | <a href="https://google.com">Detection Lab</a>|
-| Windows Forensics Project       | 🛡️ **Blue Team Detection Lab:** [ Windows Event Log Forensics ](https://github.com/nobanya/Windows-Forensics-Portfolio/blob/a8bc82dfe69c692dd9a940536fa83dce2d83108f/Windows-Event-Log-Analysis-For-IR.md)|
+| Windows Forensics Project       | 🛡️ **Blue Team Detection Lab:** [ Windows Event Log Forensics ](https://github.com/nobanya/Windows-Forensics-Portfolio/blob/33239832287f515b19594c31d34cd34f0d4743e2/README.md)|
 | Active Directory Project      | SOC Automation Lab|
 
 
